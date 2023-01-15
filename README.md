@@ -1,13 +1,15 @@
 # Photogrammetry
 + 対象物を複数の角度から撮影した画像を統合することで，3次元モデルを作成する方法
-<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/master/document/picture1.png" width="400px">
+<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/main/document/picture1.png" width="600px">
 
 + カメラ20台から取得した画像から3次元モデルを作る
-<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/master/document/picture2.png" width="400px">
+<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/main/document/picture2.png" width="300px">
 
 + 3次元モデル例
-<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/master/document/picture3.png" width="400px">
-<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/master/document/picture4.png" width="300px">
+<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/main/document/picture3.png" width="600px">
+
++ 3次元モデル例（時間経過）
+<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/main/document/picture4.png" width="400px">
 
 # Contents
 + run
