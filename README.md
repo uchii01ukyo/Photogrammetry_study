@@ -1,4 +1,7 @@
-## Contents
++ Photogrammetryを用いて3Dモデルを作る.
++ 以下、コードを参考にしてください.
+
+# Contents
 + run
   + コード実行用のコマンドリスト
 + capture
@@ -10,5 +13,5 @@
 + memo
   + メモ程度の書き残し、開発中に使った要素技術のコードメモ
   
-## Author  
+# Author  
 Uchii Ukyo (https://github.com/uchii01ukyo)
