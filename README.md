@@ -1,5 +1,13 @@
-+ Photogrammetryを用いて3Dモデルを作る.
-+ 以下、コードを参考にしてください.
+# Photogrammetry
++ 対象物を複数の角度から撮影した画像を統合することで，3次元モデルを作成する方法
+<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/master/document/picture1.png" width="400px">
+
++ カメラ20台から取得した画像から3次元モデルを作る
+<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/master/document/picture2.png" width="400px">
+
++ 3次元モデル例
+<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/master/document/picture3.png" width="400px">
+<img src="https://github.com/uchii01ukyo/photogrammetry_study/blob/master/document/picture4.png" width="300px">
 
 # Contents
 + run
